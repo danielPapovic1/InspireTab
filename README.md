@@ -53,6 +53,6 @@ For access to older releases or historical reference, please see the `previous-v
 ![InspireTab Screenshot 1](https://i.postimg.cc/YS4ngxwh/ss1.png)
 
 
-![InspireTab Screenshot 2](https://i.postimg.cc/zvm2jHk8/ss2.png)
+![InspireTab Screenshot 2](https://i.postimg.cc/LsMZSz3r/ss2.png)
 
 ## **Planned Upcoming Updates**

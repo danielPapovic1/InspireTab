@@ -8,7 +8,7 @@
 
 * **Rotating Scenic Backgrounds**: Fresh, inspiring images every time you open a tab.  
 * **Dynamic Greetings**: Personalized messages that change depending on the time of day.  
-* **Inspirational Quotes**: Daily motivation and thoughtful insights.  
+* **Inspirational Quotes**: Secular along with biblical quotes.   
 * **Integrated Search Bar**: Quick and easy access to search immediately upon entering a new name.  
 * **Bookmarks and Shortcuts**: Add your own shortcuts or utilize integrated Google Bookmarks by clicking the extension icon.  
 * **Mini To-Do List**: Positioned towards the right side of the screen, helping you manage daily tasks.  
@@ -47,5 +47,12 @@ For access to older releases or historical reference, please see the `previous-v
   * **Animate.css**: Adds engaging CSS animations.  
 * Employs Chrome's storage API for efficient state management and cross-device synchronization. (Name synced across all devices; other details stored locally only)
 * Permissions for Bookmarks and the Side Panel are also specified in the Manifest V3 file.
+
+## **Images**
+
+![InspireTab Screenshot 1](https://i.postimg.cc/YS4ngxwh/ss1.png)
+
+
+![InspireTab Screenshot 2](https://i.postimg.cc/zvm2jHk8/ss2.png)
 
 ## **Planned Upcoming Updates**
